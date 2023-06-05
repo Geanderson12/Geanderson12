@@ -1,4 +1,4 @@
-## E aí pessoal. Bom ter vocÊ aqui! Fique à vontade!
+## E aí pessoal. Bom ter você aqui! Fique à vontade!
 
 <div>
     <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Geanderson12&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
